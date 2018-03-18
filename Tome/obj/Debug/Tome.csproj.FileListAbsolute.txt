@@ -1,0 +1,50 @@
+C:\Users\luan\source\repos\Tome\Tome\obj\Debug\Tome.csproj.CoreCompileInputs.cache
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Tome.exe.config
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Tome.exe
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Tome.pdb
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Telegram.Bot.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Telegram.Bot.xml
+C:\Users\luan\source\repos\Tome\Tome\obj\Debug\Tome.exe
+C:\Users\luan\source\repos\Tome\Tome\obj\Debug\Tome.pdb
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\log4net.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\log4net.xml
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.Core.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\System.Net.Http.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.xml
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.Core.xml
+C:\Users\luan\source\repos\Tome\Tome\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\luan\source\repos\Tome\Tome\obj\Debug\Tome.csprojResolveAssemblyReference.cache
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Tome.exe.config
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Tome.exe
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Tome.pdb
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.Core.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.Customsearch.v1.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\log4net.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\System.Net.Http.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Telegram.Bot.dll
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.xml
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.Core.xml
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Google.Apis.Customsearch.v1.xml
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\log4net.xml
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\bin\Debug\Telegram.Bot.xml
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\obj\Debug\Tome.csprojResolveAssemblyReference.cache
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\obj\Debug\Tome.csproj.CoreCompileInputs.cache
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\obj\Debug\Tome.exe
+C:\Users\luan\Google Drive\Estudo\Desenv\C#\repos\Tome\Tome\obj\Debug\Tome.pdb
